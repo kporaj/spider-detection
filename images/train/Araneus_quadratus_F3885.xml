@@ -1,0 +1,26 @@
+<annotation>
+	<folder>9ce1348b-9b79-4d00-81e2-bc5d1918f6d9</folder>
+	<filename>Araneus_quadratus_F3885.jpg</filename>
+	<path>C:\Users\Kajetan\Desktop\Spider detection\9ce1348b-9b79-4d00-81e2-bc5d1918f6d9\Araneus_quadratus_F3885.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>450</width>
+		<height>462</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>spider</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>64</xmin>
+			<ymin>59</ymin>
+			<xmax>405</xmax>
+			<ymax>396</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,38 @@
+<annotation>
+	<folder>dbae890c-ce3b-41de-a3a3-e58860b7bb32</folder>
+	<filename>p1290044.jpg</filename>
+	<path>C:\Users\Kajetan\Desktop\Spider detection\dbae890c-ce3b-41de-a3a3-e58860b7bb32\p1290044.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1920</width>
+		<height>1244</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>spider</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1173</xmin>
+			<ymin>284</ymin>
+			<xmax>1778</xmax>
+			<ymax>854</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>spider</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>169</xmin>
+			<ymin>203</ymin>
+			<xmax>1138</xmax>
+			<ymax>998</ymax>
+		</bndbox>
+	</object>
+</annotation>

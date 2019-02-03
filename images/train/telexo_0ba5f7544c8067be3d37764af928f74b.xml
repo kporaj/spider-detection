@@ -1,0 +1,26 @@
+<annotation>
+	<folder>dbae890c-ce3b-41de-a3a3-e58860b7bb32</folder>
+	<filename>telexo_0ba5f7544c8067be3d37764af928f74b.jpg</filename>
+	<path>C:\Users\Kajetan\Desktop\Spider detection\dbae890c-ce3b-41de-a3a3-e58860b7bb32\telexo_0ba5f7544c8067be3d37764af928f74b.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>933</width>
+		<height>700</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>spider</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>204</xmin>
+			<ymin>15</ymin>
+			<xmax>753</xmax>
+			<ymax>667</ymax>
+		</bndbox>
+	</object>
+</annotation>

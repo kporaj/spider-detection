@@ -1,0 +1,26 @@
+<annotation>
+	<folder>9ce1348b-9b79-4d00-81e2-bc5d1918f6d9</folder>
+	<filename>Araneus20quadratus20520Viervlekwielwebspin20Saxifraga-Ab20H20Baas.jpg</filename>
+	<path>C:\Users\Kajetan\Desktop\Spider detection\9ce1348b-9b79-4d00-81e2-bc5d1918f6d9\Araneus20quadratus20520Viervlekwielwebspin20Saxifraga-Ab20H20Baas.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1200</width>
+		<height>900</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>spider</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>111</xmin>
+			<ymin>28</ymin>
+			<xmax>960</xmax>
+			<ymax>851</ymax>
+		</bndbox>
+	</object>
+</annotation>

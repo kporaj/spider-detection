@@ -1,0 +1,26 @@
+<annotation>
+	<folder>dbae890c-ce3b-41de-a3a3-e58860b7bb32</folder>
+	<filename>8.jpg</filename>
+	<path>C:\Users\Kajetan\Desktop\Spider detection\dbae890c-ce3b-41de-a3a3-e58860b7bb32\8.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>spider</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>249</xmin>
+			<ymin>123</ymin>
+			<xmax>682</xmax>
+			<ymax>450</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>9ce1348b-9b79-4d00-81e2-bc5d1918f6d9</folder>
+	<filename>araneus-diadematus-by-jurgen-howaldt.jpg</filename>
+	<path>C:\Users\Kajetan\Desktop\Spider detection\9ce1348b-9b79-4d00-81e2-bc5d1918f6d9\araneus-diadematus-by-jurgen-howaldt.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>600</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>spider</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>51</xmin>
+			<ymin>5</ymin>
+			<xmax>578</xmax>
+			<ymax>586</ymax>
+		</bndbox>
+	</object>
+</annotation>

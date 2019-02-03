@@ -1,0 +1,26 @@
+<annotation>
+	<folder>9ce1348b-9b79-4d00-81e2-bc5d1918f6d9</folder>
+	<filename>Araneus20mitificus20F207.6mmM20Ubud20100811h.jpg</filename>
+	<path>C:\Users\Kajetan\Desktop\Spider detection\9ce1348b-9b79-4d00-81e2-bc5d1918f6d9\Araneus20mitificus20F207.6mmM20Ubud20100811h.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1000</width>
+		<height>837</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>spider</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>47</xmin>
+			<ymin>9</ymin>
+			<xmax>900</xmax>
+			<ymax>813</ymax>
+		</bndbox>
+	</object>
+</annotation>

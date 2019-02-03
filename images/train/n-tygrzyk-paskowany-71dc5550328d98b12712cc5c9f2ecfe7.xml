@@ -1,0 +1,26 @@
+<annotation>
+	<folder>dbae890c-ce3b-41de-a3a3-e58860b7bb32</folder>
+	<filename>n-tygrzyk-paskowany-71dc5550328d98b12712cc5c9f2ecfe7.jpg</filename>
+	<path>C:\Users\Kajetan\Desktop\Spider detection\dbae890c-ce3b-41de-a3a3-e58860b7bb32\n-tygrzyk-paskowany-71dc5550328d98b12712cc5c9f2ecfe7.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>236</width>
+		<height>177</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>spider</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>47</xmin>
+			<ymin>1</ymin>
+			<xmax>194</xmax>
+			<ymax>174</ymax>
+		</bndbox>
+	</object>
+</annotation>

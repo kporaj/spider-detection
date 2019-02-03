@@ -1,0 +1,26 @@
+<annotation>
+	<folder>9ce1348b-9b79-4d00-81e2-bc5d1918f6d9</folder>
+	<filename>Araneus20marmoreus20120Marmerspin20Saxifraga-Rutger20Barendse.jpg</filename>
+	<path>C:\Users\Kajetan\Desktop\Spider detection\9ce1348b-9b79-4d00-81e2-bc5d1918f6d9\Araneus20marmoreus20120Marmerspin20Saxifraga-Rutger20Barendse.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>1200</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>spider</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1</xmin>
+			<ymin>28</ymin>
+			<xmax>729</xmax>
+			<ymax>1102</ymax>
+		</bndbox>
+	</object>
+</annotation>

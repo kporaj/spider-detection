@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Pająki - wycięte</folder>
+	<filename>IMG_20180828_140003.jpg</filename>
+	<path>C:\Users\Kajetan\Desktop\Spider detection\Pająki - wycięte\IMG_20180828_140003.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2976</width>
+		<height>3968</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>spider</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1267</xmin>
+			<ymin>2872</ymin>
+			<xmax>1614</xmax>
+			<ymax>3207</ymax>
+		</bndbox>
+	</object>
+</annotation>
